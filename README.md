@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**0sparsh2/0sparsh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0sparsh2/0sparsh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: my twitter handle is given, open to DMs
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: This fact is the only "Fun" thing happened to me in a while.
--->
+
