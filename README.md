@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on NLP and CNN algorithms along with a web development side project.
-- 🌱 I’m currently learning Neural Networks in depth, backend from scratch, jquery, react, many more.
-- 👯 I’m looking to collaborate on a beginner's data science project.
-- 🤔 I’m looking for help with data cleansing.
+- 🔭 I’m currently working on Indian Sign Language translation Code and some other projects simulateously. 
+- 🌱 I’m currently learning NLP in depth, Time Series and GANs.
+- 👯 I’m looking to collaborate Deep Learning based research assignments.
+- 🤔 I’m looking for help to finalize and work upon research topics.
 - 💬 Ask me about anything, ready to help my best.
 - 📫 How to reach me: my twitter handle is given, open to DMs
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: This fact is the only "Fun" thing happened to me in a while.
 
 
-![Not me](https://media.tenor.com/images/4b2a95f661525185066c3d4fc87b885a/tenor.gif)
+![Not me](https://i.pinimg.com/originals/36/94/f7/3694f7a223caa7623beca5bae27462a5.gif)
