@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: This fact is the only "Fun" thing happened to me in a while.
 
 
-![Not me](https://thumbs.gfycat.com/JubilantBrightIndianelephant-max-1mb.gif)
