@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Blockchain and Neuroscience.
 - 👯 I’m looking to collaborate Deep Learning based research assignments.
 - 💬 Ask me about anything, ready to help my best.
-- 📫 How to reach me: My [Email Id](0sparsh2@gmail.com) or My [Twitter](https://www.twitter.com/techsparshyyy)
+- 📫 How to reach me: My [Twitter](https://www.twitter.com/techsparshyyy)
 - 😄 Pronouns: He/Him
