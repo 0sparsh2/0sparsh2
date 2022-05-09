@@ -5,13 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Indian Sign Language translation Code and some other projects simulateously. 
-- 🌱 I’m currently learning NLP in depth, Time Series and GANs.
+- 🔭 I’m currently working at AppyHigh Technologies upon Recommendation Systems. 
+- 🌱 I’m currently learning Blockchain and Neuroscience.
 - 👯 I’m looking to collaborate Deep Learning based research assignments.
-- 🤔 I’m looking for help to finalize and work upon research topics.
 - 💬 Ask me about anything, ready to help my best.
-- 📫 How to reach me: my twitter handle is given, open to DMs
+- 📫 How to reach me: My [Email Id](0sparsh2@gmail.com) or My [Twitter](https://www.twitter.com/techsparshyyy)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: This fact is the only "Fun" thing happened to me in a while.
-
-
