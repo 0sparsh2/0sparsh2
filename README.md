@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at [AppyHigh Technology](https://www.appyhigh.com) upon Stable DIffusion and Prompt Engineering. 
+- 🇼 Incoming Data Science Master's student at [University of Washington](https://www.washington.edu/) 
+- 🔭 I’m currently working at upon Stable DIffusion and Prompt Engineering. 
 - 🌱 I’m currently learning Blockchain and LLMs.
 - 👯 I’m looking to collaborate Deep Learning based research assignments.
 - 💬 Ask me about anything, ready to help my best.
