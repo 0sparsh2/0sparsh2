@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 - 🇼 Incoming Data Science Master's student at [University of Washington](https://www.washington.edu/) 
-- 🔭 I’m currently working on Generative AI (Majorly Stable Diffusion).  
-- 🌱 I’m currently learning about LLMs.
-- 👯 I’m looking for Internships in Fall 2024 and research collaborations in Stable DIffusion.
+- 🔭 I’m currently working with The Boeing Company (LLM internal tools) and NetApp on ML-based Ransomware Protection.  
+- 🌱 I’m currently working on a lot of side projects.
+- 👯 I’m looking for ML/ Data Science positons from March 2025 onwards.
 - 💬 Ask me about anything, ready to help my best.
 - 📫 How to reach me: My [Linkedin](https://www.linkedin.com/in/sparshnagpal/)
 - 😄 Pronouns: He/Him
